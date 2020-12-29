@@ -1,0 +1,9 @@
+G:\Practices\YoYo-Web-App\YoYo-Logger\bin\Debug\netcoreapp3.1\YoYo-Logger.deps.json
+G:\Practices\YoYo-Web-App\YoYo-Logger\bin\Debug\netcoreapp3.1\YoYo-Logger.dll
+G:\Practices\YoYo-Web-App\YoYo-Logger\bin\Debug\netcoreapp3.1\YoYo-Logger.pdb
+G:\Practices\YoYo-Web-App\YoYo-Logger\obj\Debug\netcoreapp3.1\YoYo-Logger.csprojAssemblyReference.cache
+G:\Practices\YoYo-Web-App\YoYo-Logger\obj\Debug\netcoreapp3.1\YoYo-Logger.AssemblyInfoInputs.cache
+G:\Practices\YoYo-Web-App\YoYo-Logger\obj\Debug\netcoreapp3.1\YoYo-Logger.AssemblyInfo.cs
+G:\Practices\YoYo-Web-App\YoYo-Logger\obj\Debug\netcoreapp3.1\YoYo-Logger.csproj.CoreCompileInputs.cache
+G:\Practices\YoYo-Web-App\YoYo-Logger\obj\Debug\netcoreapp3.1\YoYo-Logger.dll
+G:\Practices\YoYo-Web-App\YoYo-Logger\obj\Debug\netcoreapp3.1\YoYo-Logger.pdb

@@ -1,0 +1,14 @@
+G:\Practices\YoYo-Web-App\YoYo-Repository\bin\Debug\netcoreapp3.1\YoYo-Repository.deps.json
+G:\Practices\YoYo-Web-App\YoYo-Repository\bin\Debug\netcoreapp3.1\YoYo-Repository.dll
+G:\Practices\YoYo-Web-App\YoYo-Repository\bin\Debug\netcoreapp3.1\YoYo-Repository.pdb
+G:\Practices\YoYo-Web-App\YoYo-Repository\bin\Debug\netcoreapp3.1\YoYo-Entities.dll
+G:\Practices\YoYo-Web-App\YoYo-Repository\bin\Debug\netcoreapp3.1\YoYo-Logger.dll
+G:\Practices\YoYo-Web-App\YoYo-Repository\bin\Debug\netcoreapp3.1\YoYo-Entities.pdb
+G:\Practices\YoYo-Web-App\YoYo-Repository\bin\Debug\netcoreapp3.1\YoYo-Logger.pdb
+G:\Practices\YoYo-Web-App\YoYo-Repository\obj\Debug\netcoreapp3.1\YoYo-Repository.csprojAssemblyReference.cache
+G:\Practices\YoYo-Web-App\YoYo-Repository\obj\Debug\netcoreapp3.1\YoYo-Repository.AssemblyInfoInputs.cache
+G:\Practices\YoYo-Web-App\YoYo-Repository\obj\Debug\netcoreapp3.1\YoYo-Repository.AssemblyInfo.cs
+G:\Practices\YoYo-Web-App\YoYo-Repository\obj\Debug\netcoreapp3.1\YoYo-Repository.csproj.CoreCompileInputs.cache
+G:\Practices\YoYo-Web-App\YoYo-Repository\obj\Debug\netcoreapp3.1\YoYo-Repository.csproj.CopyComplete
+G:\Practices\YoYo-Web-App\YoYo-Repository\obj\Debug\netcoreapp3.1\YoYo-Repository.dll
+G:\Practices\YoYo-Web-App\YoYo-Repository\obj\Debug\netcoreapp3.1\YoYo-Repository.pdb

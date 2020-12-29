@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/Xb6cxgVGjf90E5NQQc/WUVL0EPqHzbme9qSklK8HMIuonZVaOnM6Sv7dcCEBOGD5Er2FkE3ICze8g2lxb3sg==",
+  "success": true,
+  "projectFilePath": "G:\\Practices\\YoYo-Web-App\\YoYo-Entities\\YoYo-Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

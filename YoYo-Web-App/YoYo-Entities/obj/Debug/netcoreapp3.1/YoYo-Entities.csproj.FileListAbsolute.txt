@@ -1,0 +1,9 @@
+G:\Practices\YoYo-Web-App\YoYo-Entities\bin\Debug\netcoreapp3.1\YoYo-Entities.deps.json
+G:\Practices\YoYo-Web-App\YoYo-Entities\bin\Debug\netcoreapp3.1\YoYo-Entities.dll
+G:\Practices\YoYo-Web-App\YoYo-Entities\bin\Debug\netcoreapp3.1\YoYo-Entities.pdb
+G:\Practices\YoYo-Web-App\YoYo-Entities\obj\Debug\netcoreapp3.1\YoYo-Entities.csprojAssemblyReference.cache
+G:\Practices\YoYo-Web-App\YoYo-Entities\obj\Debug\netcoreapp3.1\YoYo-Entities.AssemblyInfoInputs.cache
+G:\Practices\YoYo-Web-App\YoYo-Entities\obj\Debug\netcoreapp3.1\YoYo-Entities.AssemblyInfo.cs
+G:\Practices\YoYo-Web-App\YoYo-Entities\obj\Debug\netcoreapp3.1\YoYo-Entities.csproj.CoreCompileInputs.cache
+G:\Practices\YoYo-Web-App\YoYo-Entities\obj\Debug\netcoreapp3.1\YoYo-Entities.dll
+G:\Practices\YoYo-Web-App\YoYo-Entities\obj\Debug\netcoreapp3.1\YoYo-Entities.pdb
